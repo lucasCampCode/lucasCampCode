@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hello my name is Lucas Campbell, im a game developer that likes creating games in unity and unreal.
 <!--
 **lucasCampCode/lucasCampCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

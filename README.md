@@ -1,4 +1,9 @@
-Hello my name is Lucas Campbell, im a game developer that likes creating games in unity and unreal.
+Hello my name is Lucas Campbell,
+- I'm a game developer that likes creating games in unity and unreal.
+- I'm currently working on a game jam that is mech based.
+- I want to work on a project that splits on different paths.
+
+How to contact me:
 <!--
 **lucasCampCode/lucasCampCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

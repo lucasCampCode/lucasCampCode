@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lcampbell0815@gmail.com**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/gr3vn4bie7s](https://resume.creddle.io/resume/gr3vn4bie7s)
+- 📄 Know about my experiences [resume](https://resume.creddle.io/resume/gr3vn4bie7s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

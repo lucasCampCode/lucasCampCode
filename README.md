@@ -1,9 +1,22 @@
 <h1 align="center">Hello, I'm Lucas Campbell</h1>
 <h3 align="center">I'm a Game Developer in unity and unreal.</h3>
 
-- 🔭 I’m currently working on [DoomBuggy](https://doombuggy.itch.io/doom-buggy)
+Game's I worked on:
+1. [DoomBuggy](https://doombuggy.itch.io/doom-buggy)
+<p align="left">
+<a href="https://doombuggy.itch.io/doom-buggy" target="DoomBuggy"><img align="center" src= "https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="doom" height="200" width="480" /></a>
+</p>
 
-- 🌱 I’m currently learning **IK animation**
+2. [Little Noteboat](https://chicory-games.itch.io/little-noteboat)
+<p align="left">
+<a href="https://chicory-games.itch.io/little-noteboat" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzYzNDUxNzcucG5n/original/%2BcDfi4.png" alt="noteBoat" height="150" width="150" /></a>
+</p>
+
+3. [Sugi: on the roll](https://baradoros.itch.io/sugi-on-a-roll)
+
+<p align="left">
+<a href="https://baradoros.itch.io/sugi-on-a-roll" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzUzNzg0NDEuanBn/347x500/OokalE.jpg" alt="sugi" height="137" width="173" /></a>
+</p>
 
 - 📫 How to reach me **lcampbell0815@gmail.com**
 

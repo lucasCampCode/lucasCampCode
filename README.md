@@ -7,20 +7,20 @@ My name is Lucas Campbell. I am a game developer that create games in engine's l
  * [LinkedIn](https://www.linkedin.com/in/lucascampbell1501)
 
 ## Games I worked on
-1. [Doom Buggy](https://doombuggy.itch.io/doom-buggy)
+### [Doom Buggy](https://doombuggy.itch.io/doom-buggy)
+A demolition derby game made during final year in the two year curriculum. in this project i worked on the Vehicle Physics and Enemy AI.
 <p align="left">
-<a href="https://doombuggy.itch.io/doom-buggy" target="DoomBuggy"><img align="center" src= "https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="doom" height="100" width="240" /></a>
+<a href="https://doombuggy.itch.io/doom-buggy" target="DoomBuggy"><img align="center" src= "https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="doom" height="150" width="360" /></a>
 </p>
 
-2. [Little NoteBoat](https://chicory-games.itch.io/little-noteboat)
-<p>
+### [Little NoteBoat](https://chicory-games.itch.io/little-noteboat)
+<p align="left">
 <a href="https://chicory-games.itch.io/little-noteboat" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzYzNDUxNzcucG5n/original/%2BcDfi4.png" alt="noteBoat" height="150" width="150" /></a>
 </p>
 
-3. [Sugi: On The Roll](https://baradoros.itch.io/sugi-on-a-roll)
-
-<p>
-<a href="https://baradoros.itch.io/sugi-on-a-roll" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzUzNzg0NDEuanBn/347x500/OokalE.jpg" alt="sugi" height="137" width="173" /></a>
+### [Sugi: On The Roll](https://baradoros.itch.io/sugi-on-a-roll)
+<p align="left">
+<a href="https://baradoros.itch.io/sugi-on-a-roll" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzUzNzg0NDEuanBn/347x500/OokalE.jpg" alt="sugi" height="150" width="200" /></a>
 </p>
 
 

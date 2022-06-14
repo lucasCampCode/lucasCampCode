@@ -1,23 +1,23 @@
 # About Me
-my name is Lucas Campbell, I am a small game developer that creates games in engine's like unreal and unity. I enjoy the challenge of planning puzzles, and combat systems.
+My name is Lucas Campbell. I am a game developer that create games in engine's like Unreal Engine 4 and Unity. I enjoy the challenge of planning puzzles and combat systems.
 
 ## Contact Info
- * [resume](https://resume.creddle.io/resume/gr3vn4bie7s)
+ * [Resume](https://resume.creddle.io/resume/gr3vn4bie7s)
  * [Email](mailto:lcampbell0815@gmail.com)
  * [LinkedIn](https://www.linkedin.com/in/lucascampbell1501)
 
 ## Game's I worked on
-1. [DoomBuggy](https://doombuggy.itch.io/doom-buggy)
+1. [Doom Buggy](https://doombuggy.itch.io/doom-buggy)
 <p align="left">
-<a href="https://doombuggy.itch.io/doom-buggy" target="DoomBuggy"><img align="center" src= "https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="doom" height="200" width="480" /></a>
+<a href="https://doombuggy.itch.io/doom-buggy" target="DoomBuggy"><img align="center" src= "https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="doom" height="100" width="240" /></a>
 </p>
 
-2. [Little Noteboat](https://chicory-games.itch.io/little-noteboat)
+2. [Little NoteBoat](https://chicory-games.itch.io/little-noteboat)
 <p>
 <a href="https://chicory-games.itch.io/little-noteboat" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzYzNDUxNzcucG5n/original/%2BcDfi4.png" alt="noteBoat" height="150" width="150" /></a>
 </p>
 
-3. [Sugi: on the roll](https://baradoros.itch.io/sugi-on-a-roll)
+3. [Sugi: On The Roll](https://baradoros.itch.io/sugi-on-a-roll)
 
 <p>
 <a href="https://baradoros.itch.io/sugi-on-a-roll" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzUzNzg0NDEuanBn/347x500/OokalE.jpg" alt="sugi" height="137" width="173" /></a>

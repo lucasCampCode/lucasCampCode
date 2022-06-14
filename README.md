@@ -11,7 +11,9 @@ My name is Lucas Campbell. I am a game developer that create games in engine's l
 A demolition derby game made during final year in the two year curriculum. in this project i worked on the Vehicle Physics and Enemy AI.
 <p align="left">
 <a href="https://doombuggy.itch.io/doom-buggy" target="DoomBuggy"><img align="center" src= "https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="doom" height="150" width="360" /></a>
+<a><img align="center" src= "https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="doom" height="150" width="360" /></a>
 </p>
+
 
 ### [Little NoteBoat](https://chicory-games.itch.io/little-noteboat)
 <p align="left">

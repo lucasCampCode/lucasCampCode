@@ -8,13 +8,13 @@ Game's I worked on:
 </p>
 
 2. [Little Noteboat](https://chicory-games.itch.io/little-noteboat)
-<p align="left">
+<p>
 <a href="https://chicory-games.itch.io/little-noteboat" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzYzNDUxNzcucG5n/original/%2BcDfi4.png" alt="noteBoat" height="150" width="150" /></a>
 </p>
 
 3. [Sugi: on the roll](https://baradoros.itch.io/sugi-on-a-roll)
 
-<p align="left">
+<p>
 <a href="https://baradoros.itch.io/sugi-on-a-roll" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzUzNzg0NDEuanBn/347x500/OokalE.jpg" alt="sugi" height="137" width="173" /></a>
 </p>
 

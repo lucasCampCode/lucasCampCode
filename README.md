@@ -6,7 +6,7 @@ My name is Lucas Campbell. I am a game developer that create games in engine's l
  * [Email](mailto:lcampbell0815@gmail.com)
  * [LinkedIn](https://www.linkedin.com/in/lucascampbell1501)
 
-## Games I worked on
+## Projects
 ### [Doom Buggy](https://doombuggy.itch.io/doom-buggy)
 A demolition derby game made during final year in the two year curriculum. in this project i worked on the Vehicle Physics and Enemy AI.
 <p align="left">
@@ -19,12 +19,13 @@ A demolition derby game made during final year in the two year curriculum. in th
 A navy battle game where you shoot down paper planes before they shoot you. my contributions to this project was player controls and movement.
 <p align="left">
 <a href="https://chicory-games.itch.io/little-noteboat" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzYzNDUxNzcucG5n/original/%2BcDfi4.png" alt="noteBoat" height="150" width="150" /></a>
-<a><img align="center" src= "LittleNoteBoat_pic.png" alt="little" height="150" width="300" /></a>
+<a><img align="center" src= "LittleNoteBoat_pic.png" alt="little" height="150" width="130" /></a>
 </p>
 
 ### [Sugi: On The Roll](https://baradoros.itch.io/sugi-on-a-roll)
 <p align="left">
 <a href="https://baradoros.itch.io/sugi-on-a-roll" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzUzNzg0NDEuanBn/347x500/OokalE.jpg" alt="sugi" height="150" width="200" /></a>
+<a><img align="center" src= "Sugi.png" alt="little" height="150" width="150" /></a>
 </p>
 
 

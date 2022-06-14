@@ -6,7 +6,7 @@ My name is Lucas Campbell. I am a game developer that create games in engine's l
  * [Email](mailto:lcampbell0815@gmail.com)
  * [LinkedIn](https://www.linkedin.com/in/lucascampbell1501)
 
-## Game's I worked on
+## Games I worked on
 1. [Doom Buggy](https://doombuggy.itch.io/doom-buggy)
 <p align="left">
 <a href="https://doombuggy.itch.io/doom-buggy" target="DoomBuggy"><img align="center" src= "https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="doom" height="100" width="240" /></a>

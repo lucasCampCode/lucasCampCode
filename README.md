@@ -18,7 +18,7 @@ A demolition derby game made during final year in the two year curriculum. in th
 ### [Little NoteBoat](https://chicory-games.itch.io/little-noteboat)
 <p align="left">
 <a href="https://chicory-games.itch.io/little-noteboat" target="blank"><img align="center" src= "https://img.itch.zone/aW1nLzYzNDUxNzcucG5n/original/%2BcDfi4.png" alt="noteBoat" height="150" width="150" /></a>
-<a><img align="center" src= "Player_death.gif" alt="doom" height="150" width="300" /></a>
+<a><img align="center" src= "player_death.gif" alt="doom" height="400" width="300" /></a>
 </p>
 
 ### [Sugi: On The Roll](https://baradoros.itch.io/sugi-on-a-roll)

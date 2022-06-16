@@ -1,5 +1,5 @@
 # About Me
-My name is Lucas Campbell. I am a game developer that create games in engine's like Unreal Engine 4 and Unity. I enjoy the challenge of planning puzzles and combat systems.
+My name is Lucas Campbell. I am a game developer that created projects in engine's like Unreal Engine 4 and Unity. I enjoy the challenge of planning puzzles and combat systems.
 
 ## Contact Info
  * [Resume](Resume.pdf)

@@ -2,7 +2,7 @@
 My name is Lucas Campbell. I am a game developer that created projects in engine's like Unreal Engine 4 and Unity. I enjoy the challenge of planning puzzles and combat systems.
 
 ## Contact Info
- * [Resume](https://raw.githubusercontent.com/lucasCampCode/lucasCampCode/main/Lucas Campbell Resume.pdf)
+ * [Resume](Lucas Campbell Resume.pdf)
  * [Email](mailto:lcampbell0815@gmail.com)
  * [LinkedIn](https://www.linkedin.com/in/lucascampbell1501)
 
